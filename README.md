@@ -1,4 +1,4 @@
-# DATABASE-PROJ
+
 <?php 
 function openCon(){
 $dbhost = "localhost";
